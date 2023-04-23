@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title> JavaScript Basics </title>
+   <link href="styles/mystyles.css" rel="stylesheet">
+ </head>
+
+ <body>
+  <button>Click Me</buttton>
+  <div id="changeMe"></div>
+
+   <script src="scripts/myscripts.js"></scripts>
+ </body>
+</html>
